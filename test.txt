@@ -1,1 +1,2 @@
 This is fist text file  in git
+CHANGED
